@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseAPI\\MovieDatabaseAPI.csproj": {}
+    "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseApi\\MovieDatabaseAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseAPI\\MovieDatabaseAPI.csproj": {
+    "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseApi\\MovieDatabaseAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseAPI\\MovieDatabaseAPI.csproj",
+        "projectUniqueName": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseApi\\MovieDatabaseAPI.csproj",
         "projectName": "MovieDatabaseAPI",
-        "projectPath": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseAPI\\MovieDatabaseAPI.csproj",
+        "projectPath": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseApi\\MovieDatabaseAPI.csproj",
         "packagesPath": "C:\\Users\\busch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseAPI\\obj\\",
+        "outputPath": "C:\\Users\\busch\\Documents\\projects\\MovieDataBaseAPI\\MovieDataBaseApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\busch\\AppData\\Roaming\\NuGet\\NuGet.Config"
